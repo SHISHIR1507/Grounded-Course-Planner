@@ -1,0 +1,154 @@
+[
+    {
+        "course": "CS 101",
+        "title": "CS 101 \u2002 Intro Computing: Engrg & Sci \u2002 credit: 3 Hours.  (https://",
+        "content": "CS 101 \u2002 Intro Computing: Engrg & Sci \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/101/ )\nFundamental principles, concepts, and methods of computing, with \nemphasis on applications in the physical sciences and engineering. \nBasic problem solving and programming techniques; fundamental \nalgorithms and data structures; use of computers in solving engineering \nand scienti\ufb01c problems. Intended for engineering and science majors. \nPrerequisite: One of MATH 220 or MATH 221 or MATH 231 or MATH 241. \nThis course satis\ufb01es the General Education Criteria for: \nQuantitative Reasoning II",
+        "prerequisite": "One of MATH 220 or MATH 221 or MATH 231 or MATH 241.",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 101"
+    },
+    {
+        "course": "CS 124",
+        "title": "CS 124 \u2002 Introduction to Computer Science I \u2002 credit: 3 Hours.  (https://",
+        "content": "CS 124 \u2002 Introduction to Computer Science I \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/124/ )\nBasic concepts in computing and fundamental techniques for solving \ncomputational problems. Intended as a \ufb01rst course for computer science \nmajors and others with a deep interest in computing. Credit is not given \nfor both CS 124  and CS 125 . Prerequisite: Three years of high school \nmathematics or MATH 112. \nThis course satis\ufb01es the General Education Criteria for: \nQuantitative Reasoning I",
+        "prerequisite": "Three years of high school",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 124"
+    },
+    {
+        "course": "CS 125",
+        "title": "CS 125 \u2002 Introduction to Computer Science \u2002 credit: 4 Hours.  (https://",
+        "content": "CS 125 \u2002 Introduction to Computer Science \u2002 credit: 4 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/125/ )\nBasic concepts in computing and fundamental techniques for solving \ncomputational problems. Intended as a \ufb01rst course for computer science \nmajors and others with a deep interest in computing. Credit is not given \nfor both CS 125  and CS 124 . Prerequisite: Three years of high school \nmathematics or MATH 112.CS 126 \u2002 Software Design Studio \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/126/ )\nFundamental principles and techniques of software development. Design, \ndocumentation, testing, and debugging software, with a signi\ufb01cant \nemphasis on code review. Credit is not given for both CS 242  and CS 126 . \nPrerequisite: CS 125 . For majors only.",
+        "prerequisite": "Three years of high school",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 125"
+    },
+    {
+        "course": "CS 128",
+        "title": "CS 128 \u2002 Introduction to Computer Science II \u2002 credit: 3 Hours.  (https://",
+        "content": "CS 128 \u2002 Introduction to Computer Science II \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/128/ )\nContinuation of CS 124 . More advanced concepts in computing and \ntechniques and approaches for solving computational problems. \nPrerequisite: CS 124  or CS 125 . \nThis course satis\ufb01es the General Education Criteria for: \nQuantitative Reasoning II",
+        "prerequisite": "CS 124  or CS 125 .",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 128"
+    },
+    {
+        "course": "CS 173",
+        "title": "CS 173  and MATH 213. Prerequisite: One of CS 124 , CS 125 , ECE 220 ; one ",
+        "content": "CS 173  and MATH 213. Prerequisite: One of CS 124 , CS 125 , ECE 220 ; one \nof MATH 220, MATH 221.",
+        "prerequisite": "One of CS 124 , CS 125 , ECE 220 ; one",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 173"
+    },
+    {
+        "course": "CS 210",
+        "title": "CS 210 \u2002 Ethical & Professional Issues \u2002 credit: 2 Hours.  (https://",
+        "content": "CS 210 \u2002 Ethical & Professional Issues \u2002 credit: 2 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/210/ )\nEthics for the computing profession. Ethical decision-making; licensing; \nintellectual property, freedom of information, and privacy. Credit is not \ngiven for both CS 210  and either CS 211  or ECE 316 . Prerequisite: CS 225 . \nJunior standing required.",
+        "prerequisite": "CS 225 .",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 210"
+    },
+    {
+        "course": "CS 211",
+        "title": "CS 211 \u2002 Ethical and Professional Conduct \u2002 credit: 3 Hours.  (https://",
+        "content": "CS 211 \u2002 Ethical and Professional Conduct \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/211/ )\nNavigating the complex ethical and professional landscape of the \ncomputing professional: privacy, intellectual property, cybersecurity, and \nfreedom of speech. Hands-on exercises, assignments, and discussions \nin which students analyze current events from perspectives in both \nphilosophical and professional ethics. Writing professionally and \ntechnically in several writing assignments requiring peer review, \nworkshops, and multiple rounds of editing and revising. Credit is not \ngiven for both CS 211  and CS 210  or ECE 316 . Prerequisite: CS 225 . \nThis course satis\ufb01es the General Education Criteria for: \nAdvanced Composition\nInformation listed in this catalog is current as of 03/2026\n2         CS - Computer Science",
+        "prerequisite": "CS 225 .",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 211"
+    },
+    {
+        "course": "CS 222",
+        "title": "CS 222 \u2002 Software Design Lab \u2002 credit: 1 Hour. (https://",
+        "content": "CS 222 \u2002 Software Design Lab \u2002 credit: 1 Hour. (https://\ncourses.illinois.edu/schedule/terms/CS/222/ )\nDesign and implementation of novel software solutions. Problem \nidenti\ufb01cation and de\ufb01nition; idea generation and evaluation; and \nsoftware implementation, testing, and deployment. Emphasizes software \ndevelopment best practices\u2014including framework selection, code \nreview, documentation, appropriate library usage, project management, \ncontinuous integration and testing, and teamwork. Prerequisite: CS 128 ; \ncredit or concurrent registration in CS 225 . Restricted to majors in \nComputer Science undergraduate curricula only.",
+        "prerequisite": "CS 128 ;",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 222"
+    },
+    {
+        "course": "CS 225",
+        "title": "CS 225 ; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406",
+        "content": "CS 225 ; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406\nor BIOE 210 ; one of CS 361 , STAT 361, ECE 313 , MATH 362, MATH 461,\nMATH 463 or STAT 400.",
+        "prerequisite": "Not specified",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 225"
+    },
+    {
+        "course": "CS 233",
+        "title": "CS 233 , CS 240, CS 340  or ECE 391 ; CS 374  or ECE 374 ; one of MATH 225,",
+        "content": "CS 233 , CS 240, CS 340  or ECE 391 ; CS 374  or ECE 374 ; one of MATH 225,\nMATH 257, MATH 415, MATH 416, ASRM 406 , or BIOE 210 .",
+        "prerequisite": "Not specified",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 233"
+    },
+    {
+        "course": "CS 340",
+        "title": "CS 340 \u2002 Introduction to Computer Systems \u2002 credit: 3 Hours.  (https://",
+        "content": "CS 340 \u2002 Introduction to Computer Systems \u2002 credit: 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/340/ )\nBasics of computer systems. Number representations, assembly/\nmachine language, abstract models of processors (fetch/execute, \nmemory hierarchy), processes/process control, simple memory \nmanagement, \ufb01le I/O and directories, network programming, usage \nof cloud services. Credit is not given for both CS 340  and CS 240. \nPrerequisite: CS 128  and CS 225 .",
+        "prerequisite": "CS 128  and CS 225 .",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 340"
+    },
+    {
+        "course": "CS 341",
+        "title": "CS 341  or ECE 391 , or a combination of CS 233  and CS 340 .",
+        "content": "CS 341  or ECE 391 , or a combination of CS 233  and CS 340 .",
+        "prerequisite": "Not specified",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 341"
+    },
+    {
+        "course": "CS 374",
+        "title": "CS 374 , ECE 374  or MATH 414.",
+        "content": "CS 374 , ECE 374  or MATH 414.",
+        "prerequisite": "Not specified",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 374"
+    },
+    {
+        "course": "CS 397",
+        "title": "CS 397 \u2002 Individual Study \u2002 credit: 1 to 3 Hours.  (https://",
+        "content": "CS 397 \u2002 Individual Study \u2002 credit: 1 to 3 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/397/ )\nMay be repeated. Prerequisite: Consent of instructor.",
+        "prerequisite": "Consent of instructor.",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 397"
+    },
+    {
+        "course": "CS 411",
+        "title": "CS 411 \u2002 Database Systems \u2002 credit: 3 or 4 Hours.  (https://",
+        "content": "CS 411 \u2002 Database Systems \u2002 credit: 3 or 4 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/411/ )\nExamination of the logical organization of databases: the entity-\nrelationship model; the hierarchical, network, and relational data models \nand their languages. Functional dependencies and normal forms. Design, \nimplementation, and optimization of query languages; security and \nintegrity; concurrency control, and distributed database systems. 3 \nundergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225 .\nInformation listed in this catalog is current as of 03/2026\n4         CS - Computer Science",
+        "prerequisite": "CS 225 .",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 411"
+    },
+    {
+        "course": "CS 412",
+        "title": "CS 412 .",
+        "content": "CS 412 .",
+        "prerequisite": "Not specified",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 412"
+    },
+    {
+        "course": "CS 440",
+        "title": "CS 440 \u2002 Arti\ufb01cial Intelligence \u2002 credit: 3 or 4 Hours. (https://",
+        "content": "CS 440 \u2002 Arti\ufb01cial Intelligence \u2002 credit: 3 or 4 Hours. (https://\ncourses.illinois.edu/schedule/terms/CS/440/ )\nMajor topics in and directions of research in arti\ufb01cial intelligence: basic \nproblem solving techniques, knowledge representation and computer \ninference, machine learning, natural language understanding, computer \nvision, robotics, and societal impacts. Same as ECE 448 . 3 undergraduate \nhours. 3 or 4 graduate hours. Prerequisite: CS 225 ; one of CS 361 ,\nSTAT 361, ECE 313 , MATH 362, MATH 461, MATH 463, STAT 400 or\nBIOE 310 .",
+        "prerequisite": "CS 225 ; one of CS 361 ,",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 440"
+    },
+    {
+        "course": "CS 441",
+        "title": "CS 441 \u2002 Applied Machine Learning \u2002 credit: 3 or 4 Hours.  (https://",
+        "content": "CS 441 \u2002 Applied Machine Learning \u2002 credit: 3 or 4 Hours.  (https://\ncourses.illinois.edu/schedule/terms/CS/441/ )\nTechniques of machine learning to various signal problems: regression, \nincluding linear regression, multiple regression, regression forest and \nnearest neighbors regression; classi\ufb01cation with various methods, \nincluding logistic regression, support vector machines, nearest neighbors, \nsimple boosting and decision forests; clustering with various methods, \nincluding basic agglomerative clustering and k-means; resampling \nmethods, including cross-validation and the bootstrap; model selection \nmethods, including AIC, stepwise selection and the lasso; hidden Markov \nmodels; model estimation in the presence of missing variables; and \nneural networks, including deep networks. The course will focus on tool-\noriented and problem-oriented exposition. Application areas include \ncomputer vision, natural language, interpreting accelerometer data, and \nunderstanding audio data. 3 undergraduate hours. 3 or 4 graduate hours. \nPrerequisite: One of CS 225  or CS 277 , and one of CS 361 , STAT 361,\nECE 313 , BIOE 310 , MATH 362, MATH 461, MATH 463 or STAT 400.",
+        "prerequisite": "One of CS 225  or CS 277 , and one of CS 361 , STAT 361,",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 441"
+    },
+    {
+        "course": "CS 492",
+        "title": "CS 492  and a project course in another engineering department for the ",
+        "content": "CS 492  and a project course in another engineering department for the \nsame project. Prerequisite: For Computer Science majors with senior \nstanding.",
+        "prerequisite": "For Computer Science majors with senior",
+        "source": "Illinois CS Catalog PDF",
+        "section": "CS 492"
+    }
+]
