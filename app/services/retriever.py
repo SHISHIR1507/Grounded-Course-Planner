@@ -112,11 +112,9 @@ class RetrieverService:
 
         for doc in documents:
             meta = doc.metadata
-            citation = (
-                f"{meta.get('course', 'Unknown')} — "
-                f"{meta.get('source', 'Unknown')}, "
-                f"Section {meta.get('section', 'N/A')}"
-            )
+            course_code = meta.get('course', 'Unknown')
+            citation = f"- {course_code} (Prerequisite section)"
+            
             if citation not in seen:
                 seen.add(citation)
                 citations.append(citation)
