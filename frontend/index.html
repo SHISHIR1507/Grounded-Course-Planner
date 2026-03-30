@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grounded Course Planner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <div class="logo-container">
+                <div class="logo-icon">🎓</div>
+                <h1 class="logo-text">Grounded Course <span>Planner</span></h1>
+            </div>
+            <p class="subtitle">Hallucination-free academic advising powered by RAG</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Sidebar: User Profile / Completed Courses -->
+            <aside class="sidebar glass-panel">
+                <h2>Your Profile</h2>
+                <div class="completed-courses-section">
+                    <label for="course-input">Completed Courses</label>
+                    <div class="input-group">
+                        <input type="text" id="course-input" placeholder="e.g. CS 128" autocomplete="off">
+                        <button id="add-course-btn" class="btn btn-secondary">Add</button>
+                    </div>
+                    <div id="course-list" class="course-list">
+                        <!-- Course chips will go here -->
+                    </div>
+                </div>
+
+                <div class="plan-generator">
+                    <h3>Course Planning</h3>
+                    <p>Generate a reliable next-term plan based on prerequisites.</p>
+                    <div class="input-group plan-group">
+                        <label for="max-courses">Max Courses:</label>
+                        <input type="number" id="max-courses" value="3" min="1" max="6">
+                    </div>
+                    <button id="btn-plan" class="btn btn-primary w-full">Generate Next Term Plan</button>
+                </div>
+            </aside>
+
+            <!-- Main Chat / Q&A Area -->
+            <section class="chat-section glass-panel">
+                <div class="chat-header">
+                    <h2>Academic Assistant</h2>
+                    <div class="status-indicator">
+                        <span class="status-dot online"></span> API Connected
+                    </div>
+                </div>
+
+                <div id="chat-window" class="chat-window">
+                    <div class="message system-message">
+                        <div class="avatar">🤖</div>
+                        <div class="message-content">
+                            <p>Hello! I am your exact, grounded course planner. You can ask me about prerequisites, specific courses, or request a full term plan. I strictly cite the course catalog.</p>
+                        </div>
+                    </div>
+                    <!-- Messages will be injected here -->
+                </div>
+
+                <div class="chat-input-area">
+                    <div class="input-wrapper">
+                        <input type="text" id="question-input" placeholder="Ask about eligibility (e.g. 'Can I take CS 340?')">
+                        <button id="btn-ask" class="btn btn-primary btn-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Modal for showing raw JSON/citations -->
+    <div id="source-modal" class="modal">
+        <div class="modal-content glass-panel">
+            <span class="close-modal">&times;</span>
+            <h2 id="modal-title">Retrieved Sources</h2>
+            <div id="modal-body" class="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
